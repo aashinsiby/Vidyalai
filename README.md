@@ -31,7 +31,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [x] Convert `UserList` React class component to functional component and convert `witUserData` HOC (Higher order Component) to a custom React hooks
 - [x] Convert `useWindowWidth` hook to ContextAPI. Declare the ContextAPI globally and access the `isSmallerDevice` property.
 
-
+All Completed
 
 ## Submission
 - Create a new public repository in your github account
